@@ -11,7 +11,9 @@
 2) Откройте терминал (командную строку) и выполните команды
 
 pip install bs4
+
 pip install openai-whisper
+
 pip install pyqt5
 
 3) Запустите main.py
